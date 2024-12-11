@@ -1,0 +1,26 @@
+		.container{
+			display:inline-flex;
+			margin-top:50px;
+			font-family: heiti sc;
+		}
+
+		img{
+			width:300px;
+			border:5px solid grey;
+			margin-top:140px;
+		}
+
+		p{
+			margin-right:200px;
+		}
+
+		.col-md-8{
+			background-color:#89A7A7;
+			padding:30px;
+			border-radius:20px;
+		}
+
+		body{
+			background-color:lightgray;
+		}
+
